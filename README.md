@@ -9,7 +9,7 @@ var queue = new Queue({interval: 1000, name: "name this interval"});
 
 ## Execution
 ```JS
-queue.selfTask(function(){
+queue.addTask(function(){
   // call to api, mb some func
 });
 ```
