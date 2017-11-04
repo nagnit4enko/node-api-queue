@@ -1,0 +1,24 @@
+{
+  "name": "node-api-queue",
+  "version": "1.0.0",
+  "description": "module for serial requests to the server. After the set interval",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nagnit4enko/node-api-queue.git"
+  },
+  "keywords": [
+    "node",
+    "api",
+    "queue"
+  ],
+  "author": "Alex Nagnitchenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nagnit4enko/node-api-queue/issues"
+  },
+  "homepage": "https://github.com/nagnit4enko/node-api-queue#readme"
+}
